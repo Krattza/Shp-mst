@@ -9,47 +9,8 @@
    :alt: Known Vulnerabilities
    :target: https://snyk.io/test/github/shuup/shuup
 
-Shuup
-=====
+Slump
 
-Shuup is an Open Source E-Commerce Platform based on Django and Python.
-
-https://shuup.com/
-
-Copyright
----------
-
-Copyright (c) 2012-2021 by Shuup Commerce Inc. <support@shuup.com>
-
-Shuup is International Registered Trademark & Property of Shuup Commerce Inc.,
-Business ID: BC1126729,
-Business Address: 1500 West Georgia Suite 1300, Vancouver, BC, V6G-2Z6, Canada.
-
-CLA
----
-
-Contributor License Agreement is required for any contribution to this
-project.  Agreement is signed as a part of pull request process.  See
-the CLA.rst file distributed with Shuup.
-
-License
--------
-
-Shuup is published under Open Software License version 3.0 (OSL-3.0).
-See the LICENSE file distributed with Shuup.
-
-Some external libraries and contributions bundled with Shuup may be
-published under other compatible licenses. For these, please
-refer to VENDOR-LICENSES.md file in the source code tree or the licenses
-included within each package.
-
-Chat
-----
-
-We have a Gitter chat room for Shuup.  Come chat with us!  |Join chat|
-
-.. |Join chat| image:: https://badges.gitter.im/Join%20Chat.svg
-   :target: https://gitter.im/shuup/shuup
 
 Docker quick start
 ------------------
