@@ -15,7 +15,7 @@ Slump
 Docker quick start
 ------------------
 
-Fastest way to get Shuup up and running is to use `Docker <https://www.docker.com>`_.
+Fastest way to get Slump up and running is to use `Docker <https://www.docker.com>`_.
 
 1. Run:
 
@@ -26,7 +26,7 @@ Fastest way to get Shuup up and running is to use `Docker <https://www.docker.co
 2. Open `localhost:8000/sa <http://localhost:8000/sa>`_ in a browser,
    log in with username: ``admin`` password: ``admin``
 
-Full Shuup installation guide
+Full Slump installation guide
 -----------------------------
 
 See `Getting Started
@@ -34,23 +34,15 @@ See `Getting Started
 
 For simple project example see our `Django-project template <https://github.com/shuup/shuup-project-template>`__.
 
-Getting Started with Shuup development
+Getting Started with Slumpdevelopment
 --------------------------------------
 
-See `Getting Started with Shuup Development
+See `Getting Started with Slump Development
 <http://shuup.readthedocs.io/en/latest/howto/getting_started_dev.html>`__.
 
-Contributing to Shuup
----------------------
-
-Interested in contributing to Shuup? Please see our `Contribution Guide
-<https://www.shuup.com/contributions/>`__.
 
 Documentation
 -------------
-
-Shuup documentation is available online at `Read the Docs
-<http://shuup.readthedocs.org/>`__.
 
 Documentation is built with `Sphinx <http://sphinx-doc.org/>`__.
 
