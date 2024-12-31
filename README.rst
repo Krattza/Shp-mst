@@ -105,10 +105,10 @@ Additional Material
 Admin Preview
 -------------
 
-.. image:: doc/_static/admin_shop_product.png
-    :target: doc/_static/admin_shop_product.png
+.. image:: _static/admin_shop_product.png
+    :target: _static/admin_shop_product.png
     :height: 300px
 
-.. image:: doc/_static/admin_order_detail.png
-    :target: doc/_static/admin_order_detail.png
+.. image:: _static/admin_order_detail.png
+    :target: _static/admin_order_detail.png
     :height: 300px
